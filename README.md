@@ -10,11 +10,19 @@ Students engagement level detection in online e-learning has become a crucial pr
 
 ## Cite
 @article{selim2022students,
+
   title={Students engagement level detection in online e-learning using hybrid efficientnetb7 together with tcn, lstm, and bi-lstm},
+  
   author={Selim, Tasneem and Elkabani, Islam and Abdou, Mohamed A},
+  
   journal={IEEE Access},
+  
   volume={10},
+  
   pages={99573--99583},
+  
   year={2022},
+  
   publisher={IEEE}
+  
 }
