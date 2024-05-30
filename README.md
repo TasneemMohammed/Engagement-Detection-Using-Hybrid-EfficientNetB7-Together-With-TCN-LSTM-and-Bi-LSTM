@@ -8,7 +8,6 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 [![Paper Link](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://ieeexplore.ieee.org/abstract/document/9893134)
 
-[![Paper Link](https://ieeexplore.ieee.org/abstract/document/9893134)](https://ieeexplore.ieee.org/abstract/document/9893134)
 
 
 ## Abstract:
