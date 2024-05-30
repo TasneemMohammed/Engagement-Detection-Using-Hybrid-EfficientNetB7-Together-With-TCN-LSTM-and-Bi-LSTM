@@ -6,7 +6,7 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Paper Link](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 [![Paper Link](https://ieeexplore.ieee.org/abstract/document/9893134)](https://ieeexplore.ieee.org/abstract/document/9893134)
 
