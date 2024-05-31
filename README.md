@@ -23,7 +23,8 @@ Students engagement level detection in online e-learning has become a crucial pr
 
 
 #### FIGURE 3. The EfficientNet B7 architecture.
-![The EfficientNet B7 architecture](https://github.com/TasneemMohammed/Engagement-Detection-Using-Hybrid-EfficientNetB7-Together-With-TCN-LSTM-and-Bi-LSTM/blob/main/Figures/EfficientNetB7Arch.gif)
+
+<img src="https://github.com/TasneemMohammed/Engagement-Detection-Using-Hybrid-EfficientNetB7-Together-With-TCN-LSTM-and-Bi-LSTM/blob/main/Figures/EfficientNetB7Arch.gif" alt="The EfficientNet B7 architecture" width="500" height="300">
 
 
 ## Cite
