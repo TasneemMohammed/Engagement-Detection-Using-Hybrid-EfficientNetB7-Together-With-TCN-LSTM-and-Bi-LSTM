@@ -13,6 +13,7 @@ Students engagement level detection in online e-learning has become a crucial pr
 
 
 ![Dataset Preprocessing](https://github.com/TasneemMohammed/Engagement-Detection-Using-Hybrid-EfficientNetB7-Together-With-TCN-LSTM-and-Bi-LSTM/blob/main/Figures/DatasetPreprocessing.gif)
+
 FIGURE 1. The preprocessing of VRESEE video files
 
 ## Cite
