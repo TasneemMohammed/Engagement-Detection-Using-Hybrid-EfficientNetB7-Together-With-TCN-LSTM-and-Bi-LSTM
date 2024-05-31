@@ -15,8 +15,8 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/sklearn-orange?link=https://pypi.org/project/scikit-learn/)
 ![Static Badge](https://img.shields.io/badge/numpy-blue?link=https://numpy.org/install/)
 ![Static Badge](https://img.shields.io/badge/Keras--tcn-2.9.3-purple?link=https://pypi.org/project/keras-tcn/2.9.3/)
-![Static Badge](https://img.shields.io/badge/matplotlib-3.9-babyblue?link=https://pypi.org/project/matplotlib/)
 ![Static Badge](https://img.shields.io/badge/Tensorboard--colab-2.16-orange?link=https://pypi.org/project/tensorboard/)
+![Static Badge](https://img.shields.io/badge/matplotlib-3.9-babyblue?link=https://pypi.org/project/matplotlib/)
 
 
 
