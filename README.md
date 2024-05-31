@@ -6,7 +6,7 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 ![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Dataset-DAISEE-indigo?link=https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
-![Static Badge](https://img.shields.io/badge/Python 3-blue?link=https://www.python.org/downloads/)
+![Static Badge](https://img.shields.io/badge/Python3-blue?link=https://www.python.org/downloads/)
 
 ![Static Badge](https://img.shields.io/badge/TensorFlow-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Video-Augmentation-black?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
