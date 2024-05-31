@@ -18,7 +18,7 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 
 ![Static Badge](https://img.shields.io/badge/Tensorboard-colab-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
-![Static Badge](https://img.shields.io/badge/sklearn-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/sklearn-lightgrey?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 
 
 
