@@ -16,12 +16,6 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/numpy-blue?link=https://numpy.org/install/)
 
 
-
-
-
-
-![Static Badge](https://img.shields.io/badge/TensorFlow-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
-![Static Badge](https://img.shields.io/badge/Scikit--Video?link=https://www.scikit-video.org/stable/)
 ![Static Badge](https://img.shields.io/badge/Tensorboard-colab-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/matplotlib-babyblue?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/sklearn-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
