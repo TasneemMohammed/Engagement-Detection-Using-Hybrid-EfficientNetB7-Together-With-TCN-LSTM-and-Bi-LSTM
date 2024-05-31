@@ -6,7 +6,11 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 ![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Dataset-DAISEE-indigo?link=https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
-![Static Badge](https://img.shields.io/badge/Python3-blue?link=https://www.python.org/downloads/)
+![Static Badge](https://img.shields.io/badge/Python-3.8-blue?link=https://www.python.org/downloads/)
+![Static Badge](https://img.shields.io/badge/TensorFlow-2-orange?link=https://www.tensorflow.org/install)
+![Static Badge](https://img.shields.io/badge/Keras-2.9-red?link=https://pypi.org/project/keras-tcn/2.9.3/)
+
+
 
 ![Static Badge](https://img.shields.io/badge/TensorFlow-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Video-Augmentation-black?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
@@ -14,11 +18,9 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/CV2-white?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/numpy-blue?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Tensorboard-colab-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
-![Static Badge](https://img.shields.io/badge/Keras-red?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/matplotlib-babyblue?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Keras-tcn-purple?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/sklearn-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
-![Static Badge](https://img.shields.io/badge/TensorFlow-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 
 
 
