@@ -10,8 +10,8 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/TensorFlow-2-orange?link=https://www.tensorflow.org/install)
 ![Static Badge](https://img.shields.io/badge/CV2-white?link=https://pypi.org/project/opencv-python/)
 ![Static Badge](https://img.shields.io/badge/Video-Augmentation-green?link=https://github.com/okankop/vidaug)
-![Static Badge](https://img.shields.io/badge/Keras-2.9-red?link=https://pypi.org/project/keras-tcn/2.9.3/)
 ![Static Badge](https://img.shields.io/badge/Keras--tcn-2.9.3-purple?link=https://pypi.org/project/keras-tcn/2.9.3/)
+![Static Badge](https://img.shields.io/badge/Keras-2.9-red?link=https://pypi.org/project/keras-tcn/2.9.3/)
 
 
 
