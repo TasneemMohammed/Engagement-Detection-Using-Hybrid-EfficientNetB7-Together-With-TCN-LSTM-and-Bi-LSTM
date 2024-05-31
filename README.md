@@ -13,6 +13,8 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/Keras--tcn-2.9.3-purple?link=https://pypi.org/project/keras-tcn/2.9.3/)
 ![Static Badge](https://img.shields.io/badge/Keras-2.9-red?link=https://pypi.org/project/keras-tcn/2.9.3/)
 ![Static Badge](https://img.shields.io/badge/Scikit--Video-babyblue?link=https://www.scikit-video.org/stable/)
+![Static Badge](https://img.shields.io/badge/numpy-blue?link=https://numpy.org/install/)
+
 
 
 
@@ -20,7 +22,6 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 ![Static Badge](https://img.shields.io/badge/TensorFlow-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Scikit--Video?link=https://www.scikit-video.org/stable/)
-![Static Badge](https://img.shields.io/badge/numpy-blue?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/Tensorboard-colab-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/matplotlib-babyblue?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 ![Static Badge](https://img.shields.io/badge/sklearn-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
