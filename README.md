@@ -5,6 +5,17 @@ Students Engagement Level Detection in Online e-Learning Using Hybrid EfficientN
 Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 ![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Video-Augmentation-black?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Scikit-Video-orange?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+![Static Badge](https://img.shields.io/badge/Paper-Link-yellow?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
 
 
 
