@@ -85,7 +85,7 @@ There are several steps:
    
    a- For the DAiSEE dataset
    
-   Model 1 (TCN) => DAISEEEfficientNetB7TCN.ipynb   
+   Model 1 (TCN) => DAISEEEfficientNetB7TCN.ipynb
    Model 2 LSTM => DAISEEEfficientNetB7lstm.ipynb
    Model 3 Bi-LSTM => DAISEEEfficientNetB7BiLSTM.ipynb
   
