@@ -50,6 +50,10 @@ Students engagement level detection in online e-learning has become a crucial pr
 
 
 ## Cite
+
+If any part of our paper and code is helpful to your work, please generously cite with:
+
+
 ```sh
 @article{selim2022students,
   title={Students engagement level detection in online e-learning using hybrid efficientnetb7 together with tcn, lstm, and bi-lstm},
