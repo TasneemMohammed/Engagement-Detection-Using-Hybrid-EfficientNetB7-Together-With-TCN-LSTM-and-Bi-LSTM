@@ -54,8 +54,13 @@ There are several steps:
 1- Prepare the datset
    * separate_data_into_4_classes.ipynb file is used to prepare the dataset
    * The dataset is divided into four categories, each category in a separate folder
+   * To use the same ipynb file with a different dataset (eg: VRESEE), you have to change these 5 variables with your required paths
+     
+     The 5 variables: csv_file, existing_path_prefix, new_path_prefix_0, new_path_prefix_1, new_path_prefix_2, new_path_prefix_3
    
 2- Augmentation
+   * DAISEE-AugClass0&1.ipynb file is used to apply augmentation techniques to the class 0 and class1
+   * Change the paths at the forth cellThis file will also be used to apply augmentation on VRESEE dataset
    
 3- Feature Extraction using EfficientNet B7
 4- Train and tune the 
