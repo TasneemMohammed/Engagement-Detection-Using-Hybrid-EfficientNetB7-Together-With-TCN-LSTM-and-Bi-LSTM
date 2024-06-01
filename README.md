@@ -62,9 +62,10 @@ There are several steps:
    
 2- Augmentation
    * DAISEE-AugClass0&1.ipynb file is used to apply augmentation techniques to the class 0 and class1
-   * You can use the same ipynb file with a different dataset (eg: VRESEE), by only changing the paths at the fourth cell.
+   * You can use the same ipynb file with a different dataset (eg: VRESEE), by only changing the paths at the fourth cell
    
 3- Feature Extraction using EfficientNet B7
+
 4- Train and tune the 
 
 ## Cite
