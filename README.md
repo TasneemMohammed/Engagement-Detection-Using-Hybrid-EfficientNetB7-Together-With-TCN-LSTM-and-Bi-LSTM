@@ -65,6 +65,13 @@ There are several steps:
    * You can use the same ipynb file with a different dataset (eg: VRESEE), by only changing the paths at the fourth cell
    
 3- Feature Extraction using EfficientNet B7
+   a- For the DAiSEE dataset
+      * DAISEETrain-FeatureExtractionUsingEfficientNetB7.ipynb and DAISEEValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the DAiSEE dataset
+      * Change the paths to your ones
+   b- For the VRESEE dataset
+      * EgyptianTrain-FeatureExtractionUsingEfficientNetB7.ipynb and EgyptianValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the VRESEE dataset
+      * Change the paths to your ones
+
 
 4- Train and tune the 
 
