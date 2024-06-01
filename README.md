@@ -10,17 +10,17 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 [![General badge](https://img.shields.io/badge/Dataset-DAISEE-blueviolet.svg)](https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
 
 [![Static Badge](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/)
+[![Static Badge](https://img.shields.io/badge/TensorFlow-2-orange.svg)](https://www.tensorflow.org/install)
 
-![Static Badge](https://img.shields.io/badge/TensorFlow-2-orange?link=https://www.tensorflow.org/install)
-![Static Badge](https://img.shields.io/badge/matplotlib-3.9-babyblue?link=https://pypi.org/project/matplotlib/)
-![Static Badge](https://img.shields.io/badge/CV2-white?link=https://pypi.org/project/opencv-python/)
-![Static Badge](https://img.shields.io/badge/Tensorboard--colab-2.16-orange?link=https://pypi.org/project/tensorboard/)
-![Static Badge](https://img.shields.io/badge/numpy-blue?link=https://numpy.org/install/)
-![Static Badge](https://img.shields.io/badge/Keras--tcn-2.9.3-purple?link=https://pypi.org/project/keras-tcn/2.9.3/)
-![Static Badge](https://img.shields.io/badge/Keras-2.9-red?link=https://pypi.org/project/keras-tcn/2.9.3/)
-![Static Badge](https://img.shields.io/badge/Scikit--Video-brightgreen?link=https://www.scikit-video.org/stable/)
-![Static Badge](https://img.shields.io/badge/Video-Augmentation-white?link=https://github.com/okankop/vidaug)
-![Static Badge](https://img.shields.io/badge/sklearn-orange?link=https://pypi.org/project/scikit-learn/)
+[![Static Badge](https://img.shields.io/badge/matplotlib-3.9-babyblue.svg)](https://pypi.org/project/matplotlib/)
+[![Static Badge](https://img.shields.io/badge/CV2-white.svg)](https://pypi.org/project/opencv-python/)
+[![Static Badge](https://img.shields.io/badge/Tensorboard--colab-2.16-orange.svg)](https://pypi.org/project/tensorboard/)
+[![Static Badge](https://img.shields.io/badge/numpy-blue.svg)](https://numpy.org/install/)
+[![Static Badge](https://img.shields.io/badge/Keras--tcn-2.9.3-purple.svg)](https://pypi.org/project/keras-tcn/2.9.3/)
+[![Static Badge](https://img.shields.io/badge/Keras-2.9-red.svg)](https://pypi.org/project/keras-tcn/2.9.3/)
+[![Static Badge](https://img.shields.io/badge/Scikit--Video-brightgreen.svg)](https://www.scikit-video.org/stable/)
+[![Static Badge](https://img.shields.io/badge/Video-Augmentation-white.svg)](https://github.com/okankop/vidaug)
+[![Static Badge](https://img.shields.io/badge/sklearn-orange.svg)](https://pypi.org/project/scikit-learn/)
 
 
 
