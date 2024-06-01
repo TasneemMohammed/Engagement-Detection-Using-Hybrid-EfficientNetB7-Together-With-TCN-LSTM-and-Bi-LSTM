@@ -48,8 +48,19 @@ Students engagement level detection in online e-learning has become a crucial pr
 <img src="https://github.com/TasneemMohammed/Engagement-Detection-Using-Hybrid-EfficientNetB7-Together-With-TCN-LSTM-and-Bi-LSTM/blob/main/Figures/EfficientNetB7Arch.gif" alt="The EfficientNet B7 architecture" width="650" height="350">
 </div>
 
+## Project Structure
+There are several steps 
+1- Prepare the datset
+   • separate_data_into_4_classes.ipynb file is used to prepare the dataset
+   • The dataset is divided into four categories, each category in a separate folder
+   
+2- Augmentation
+   
+3- Feature Extraction using EfficientNet B7
+4- Train and tune the 
 
 ## Usage
+• This project was prepared to run on Colab
 
 
 ## Cite
