@@ -49,7 +49,8 @@ Students engagement level detection in online e-learning has become a crucial pr
 </div>
 
 ## Project Structure
-There are several steps 
+There are several steps:
+
 1- Prepare the datset
    * separate_data_into_4_classes.ipynb file is used to prepare the dataset
    * The dataset is divided into four categories, each category in a separate folder
