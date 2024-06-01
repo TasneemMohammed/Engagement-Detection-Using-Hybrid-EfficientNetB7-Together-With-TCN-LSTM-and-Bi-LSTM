@@ -8,6 +8,7 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
 [![General badge](https://img.shields.io/badge/Paper-Link-yellowgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9893134)
 [![General badge](https://img.shields.io/badge/Dataset-DAISEE-blueviolet.svg)](https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/students-engagement-level-detection-in-online/student-engagement-level-detection-four-class)](https://paperswithcode.com/sota/student-engagement-level-detection-four-class?p=students-engagement-level-detection-in-online)
 
 [![Static Badge](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-2-orange.svg)](https://www.tensorflow.org/install)
