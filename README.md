@@ -9,7 +9,7 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 [![General badge](https://img.shields.io/badge/Paper-Link-yellowgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9893134)
 [![General badge](https://img.shields.io/badge/Dataset-DAISEE-blueviolet.svg)](https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
 
-[![Static Badge](https://img.shields.io/badge/Python-3.8-blue.svg)](link=https://www.python.org/downloads/)
+[![Static Badge](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/)
 
 ![Static Badge](https://img.shields.io/badge/TensorFlow-2-orange?link=https://www.tensorflow.org/install)
 ![Static Badge](https://img.shields.io/badge/matplotlib-3.9-babyblue?link=https://pypi.org/project/matplotlib/)
