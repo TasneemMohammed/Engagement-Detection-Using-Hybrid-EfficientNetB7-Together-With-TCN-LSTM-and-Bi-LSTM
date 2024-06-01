@@ -53,7 +53,7 @@ This project was prepared to run on Colab
 
 There are several steps:
 
-1- Prepare the datset
+1- Prepare the dataset
    * separate_data_into_4_classes.ipynb file is used to prepare the dataset
    * The dataset is divided into four categories, each category in a separate folder
    * To use the same ipynb file with a different dataset (eg: VRESEE), you have to change these 5 variables with your required paths
@@ -73,7 +73,17 @@ There are several steps:
       * Change the paths to your ones
 
 
-4- Train and tune the 
+4- Train, test, and tune the models
+   * Change the paths for all the following files to your ones
+   * Load the spatial extracted features and train them to get the temporal information using
+   a- For the DAiSEE dataset
+      * Model 1 (TCN) => DAISEEEfficientNetB7TCN.ipynb 
+      * Model 2 LSTM => DAISEEEfficientNetB7lstm.ipynb
+      * Model 3 Bi-LSTM => DAISEEEfficientNetB7BiLSTM.ipynb
+   b- For the VRESEE dataset
+      * Model 1 TCN => 
+      * Model 2 LSTM =>
+      * Model 3 Bi-LSTM =>
 
 ## Cite
 
