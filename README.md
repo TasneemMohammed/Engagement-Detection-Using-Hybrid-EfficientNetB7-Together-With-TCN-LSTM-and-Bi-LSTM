@@ -85,11 +85,11 @@ There are several steps:
    
    a- For the DAiSEE dataset
    
-   DAISEEEfficientNetB7TCN.ipynb, DAISEEEfficientNetB7lstm.ipynb, and DAISEEEfficientNetB7BiLSTM.ipynb files for TCN, LSTM, and Bi-LSTM respectively.
+   DAISEEEfficientNetB7TCN.ipynb, DAISEEEfficientNetB7lstm.ipynb, and DAISEEEfficientNetB7BiLSTM.ipynb files for training, tuning and testing the TCN, LSTM, and Bi-LSTM models respectively.
   
    b- For the VRESEE dataset
 
-   EgyptianEfficientNetB7TCN.ipynb, EgyptianEfficientNetB7lstm.ipynb, and EgyptianEfficientNetB7BiLSTM.ipynb files for TCN, LSTM, and Bi-LSTM respectively.
+   EgyptianEfficientNetB7TCN.ipynb, EgyptianEfficientNetB7lstm.ipynb, and EgyptianEfficientNetB7BiLSTM.ipynb files for training, tuning and testing the TCN, LSTM, and Bi-LSTM respectively.
 
 
 ## Cite
