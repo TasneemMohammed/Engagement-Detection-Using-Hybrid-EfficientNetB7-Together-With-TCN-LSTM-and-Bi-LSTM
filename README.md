@@ -4,8 +4,11 @@ Students Engagement Level Detection in Online e-Learning Using Hybrid EfficientN
 
 Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 
-![Static Badge](https://img.shields.io/badge/Paper-Link-yellowgreen?link=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
-![Static Badge](https://img.shields.io/badge/Dataset-DAISEE-blueviolet?link=https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
+
+
+[![General badge](https://img.shields.io/badge/Paper-Link-yellowgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9893134)
+[![General badge](https://img.shields.io/badge/Dataset-DAISEE-blueviolet.svg)](https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
+
 
 ![Static Badge](https://img.shields.io/badge/Python-3.8-blue?link=https://www.python.org/downloads/)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-2-orange?link=https://www.tensorflow.org/install)
@@ -18,8 +21,6 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/Scikit--Video-brightgreen?link=https://www.scikit-video.org/stable/)
 ![Static Badge](https://img.shields.io/badge/Video-Augmentation-white?link=https://github.com/okankop/vidaug)
 ![Static Badge](https://img.shields.io/badge/sklearn-orange?link=https://pypi.org/project/scikit-learn/)
-
-[![General badge](https://img.shields.io/badge/Paper-Link-yellowgreen.svg)](https://ieeexplore.ieee.org/abstract/document/9893134)
 
 
 
