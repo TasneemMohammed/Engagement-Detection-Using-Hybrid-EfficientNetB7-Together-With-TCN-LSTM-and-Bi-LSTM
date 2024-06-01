@@ -51,7 +51,7 @@ Students engagement level detection in online e-learning has become a crucial pr
 
 ## Cite
 
-If any part of our paper and code is helpful to your work, please generously cite with:
+If any part of our paper or code is helpful to your work, please generously cite with:
 
 
 ```sh
