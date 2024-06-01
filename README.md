@@ -65,21 +65,26 @@ There are several steps:
    * You can use the same ipynb file with a different dataset (eg: VRESEE), by only changing the paths at the fourth cell
    
 3- Feature Extraction using EfficientNet B7
+
    a- For the DAiSEE dataset
       * DAISEETrain-FeatureExtractionUsingEfficientNetB7.ipynb and DAISEEValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the DAiSEE dataset
       * Change the paths to your ones
+      
    b- For the VRESEE dataset
       * EgyptianTrain-FeatureExtractionUsingEfficientNetB7.ipynb and EgyptianValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the VRESEE dataset
       * Change the paths to your ones
 
 
 4- Train, test, and tune the models
+
    * Change the paths for all the following files to your ones
    * Load the spatial extracted features and train them to get the temporal information using
+   
    a- For the DAiSEE dataset
       * Model 1 (TCN) => DAISEEEfficientNetB7TCN.ipynb 
       * Model 2 LSTM => DAISEEEfficientNetB7lstm.ipynb
       * Model 3 Bi-LSTM => DAISEEEfficientNetB7BiLSTM.ipynb
+  
    b- For the VRESEE dataset
       * Model 1 TCN => 
       * Model 2 LSTM =>
