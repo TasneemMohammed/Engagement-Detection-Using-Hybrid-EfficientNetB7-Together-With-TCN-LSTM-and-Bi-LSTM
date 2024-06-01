@@ -53,18 +53,18 @@ This project was prepared to run on Colab
 
 There are several steps:
 
-1- Prepare the dataset
+#### 1- Prepare the dataset
    * separate_data_into_4_classes.ipynb file is used to prepare the dataset
    * The dataset is divided into four categories, each category in a separate folder
    * To use the same ipynb file with a different dataset (eg: VRESEE), you have to change these 5 variables with your required paths
      
      The 5 variables: csv_file, existing_path_prefix, new_path_prefix_0, new_path_prefix_1, new_path_prefix_2, new_path_prefix_3
    
-2- Augmentation
+#### 2- Augmentation
    * DAISEE-AugClass0&1.ipynb file is used to apply augmentation techniques to the class 0 and class1
    * You can use the same ipynb file with a different dataset (eg: VRESEE), by only changing the paths at the fourth cell
    
-3- Feature Extraction using EfficientNet B7
+#### 3- Feature Extraction using EfficientNet B7
 
    * Change the paths to your ones
    
@@ -78,7 +78,7 @@ There are several steps:
       
 
 
-4- Train, test, and tune the models
+#### 4- Train, test, and tune the models
 
    * Change the paths for all the following files to your ones
    * Load the spatial extracted features and train them to get the temporal information using
@@ -93,9 +93,9 @@ There are several steps:
   
    b- For the VRESEE dataset
    
-      * Model 1 TCN => 
-      * Model 2 LSTM =>
-      * Model 3 Bi-LSTM =>
+      Model 1 TCN => 
+      Model 2 LSTM =>
+      Model 3 Bi-LSTM =>
 
 ## Cite
 
