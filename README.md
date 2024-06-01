@@ -19,6 +19,8 @@ Tasneem Selim, Islam Elkabani, Mohamed A. Abdou
 ![Static Badge](https://img.shields.io/badge/Video-Augmentation-white?link=https://github.com/okankop/vidaug)
 ![Static Badge](https://img.shields.io/badge/sklearn-orange?link=https://pypi.org/project/scikit-learn/)
 
+[![General badge](https://img.shields.io/badge/Paper-Link-yellowgreen.svg)](https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9893134)
+
 
 
 ## Abstract:
