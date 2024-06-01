@@ -66,15 +66,16 @@ There are several steps:
    
 3- Feature Extraction using EfficientNet B7
 
+   • Change the paths to your ones
+   
    a- For the DAiSEE dataset
    
       * DAISEETrain-FeatureExtractionUsingEfficientNetB7.ipynb and DAISEEValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the DAiSEE dataset
-      * Change the paths to your ones
-      
+  
    b- For the VRESEE dataset
    
       * EgyptianTrain-FeatureExtractionUsingEfficientNetB7.ipynb and EgyptianValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the VRESEE dataset
-      * Change the paths to your ones
+      
 
 
 4- Train, test, and tune the models
