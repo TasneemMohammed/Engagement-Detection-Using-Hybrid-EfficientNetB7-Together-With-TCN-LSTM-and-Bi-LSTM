@@ -48,7 +48,9 @@ Students engagement level detection in online e-learning has become a crucial pr
 <img src="https://github.com/TasneemMohammed/Engagement-Detection-Using-Hybrid-EfficientNetB7-Together-With-TCN-LSTM-and-Bi-LSTM/blob/main/Figures/EfficientNetB7Arch.gif" alt="The EfficientNet B7 architecture" width="650" height="350">
 </div>
 
-## Project Structure
+## Project Structure and Usage
+This project was prepared to run on Colab
+
 There are several steps:
 
 1- Prepare the datset
@@ -60,14 +62,10 @@ There are several steps:
    
 2- Augmentation
    * DAISEE-AugClass0&1.ipynb file is used to apply augmentation techniques to the class 0 and class1
-   * Change the paths at the forth cellThis file will also be used to apply augmentation on VRESEE dataset
+   * You can use the same ipynb file with a different dataset (eg: VRESEE), by only changing the paths at the fourth cell.
    
 3- Feature Extraction using EfficientNet B7
 4- Train and tune the 
-
-## Usage
-• This project was prepared to run on Colab
-
 
 ## Cite
 
