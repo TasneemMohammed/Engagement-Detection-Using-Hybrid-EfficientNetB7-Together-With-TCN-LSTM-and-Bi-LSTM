@@ -54,11 +54,12 @@ This project was prepared to run on Colab
 There are several steps:
 
 #### 1- Prepare the dataset
-   * separate_data_into_4_classes.ipynb file is used to prepare the dataset
-   * The dataset is divided into four categories, each category in a separate folder
-   * To use the same ipynb file with a different dataset (eg: VRESEE), you have to change these 5 variables with your required paths
-     
-     The 5 variables: csv_file, existing_path_prefix, new_path_prefix_0, new_path_prefix_1, new_path_prefix_2, new_path_prefix_3
+   * Utilize the "separate_data_into_4_classes.ipynb" file to preprocess the dataset:
+   * This notebook facilitates the division of the dataset into four distinct categories, with each category allocated to a separate folder
+   * Modification of the following five variables within the notebook is necessary to adapt it for use with either the same dataset or a different dataset (e.g., VRESEE):
+   * To use the same notebook file with a same or different dataset (eg: VRESEE), you have to change the following 5 variables with your required paths
+   * The five variables: "csv_file", "existing_path_prefix", "new_path_prefix_0", "new_path_prefix_1", "new_path_prefix_2", and "new_path_prefix_3"
+
    
 #### 2- Augmentation
    * DAISEE-AugClass0&1.ipynb file is used to apply augmentation techniques to the class 0 and class1
