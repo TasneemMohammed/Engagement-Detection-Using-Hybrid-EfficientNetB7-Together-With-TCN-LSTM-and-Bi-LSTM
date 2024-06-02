@@ -66,15 +66,15 @@ There are several steps:
    
 #### 3- Feature Extraction using EfficientNet B7
 
-   * Change the paths to your ones
+   * Adjust the paths to correspond with your specific directory structure.
    
-   a- For the DAiSEE dataset
+   a- For the DAiSEE dataset:
     
-   DAISEETrain-FeatureExtractionUsingEfficientNetB7.ipynb and DAISEEValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the DAiSEE dataset
+   "DAISEETrain-FeatureExtractionUsingEfficientNetB7.ipynb" and "DAISEEValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb" files are utilized to extract features from the Train, Validate, and Test splits of the DAiSEE dataset
   
-   b- For the VRESEE dataset
+   b- For the VRESEE dataset:
    
-   EgyptianTrain-FeatureExtractionUsingEfficientNetB7.ipynb and EgyptianValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb files are used to extract the features from Train, validate, and Test splits of the VRESEE dataset
+   "EgyptianTrain-FeatureExtractionUsingEfficientNetB7.ipynb" and "EgyptianValidate&Test-FeatureExtractionUsingEfficientNetB7.ipynb" files are employed to extract features from the Train, Validate, and Test splits of the VRESEE dataset
       
 
 
