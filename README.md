@@ -54,7 +54,7 @@ This project was prepared to run on Colab
 There are several steps:
 
 #### 1- Prepare the dataset
-   * Utilize the "separate_data_into_4_classes.ipynb" file to preprocess the dataset:
+   * Utilize the "separate_data_into_4_classes.ipynb" file to preprocess the dataset
    * This notebook facilitates the division of the dataset into four distinct categories, with each category allocated to a separate folder
    * Modification of the following five variables within the notebook is necessary to adapt it for use with either the same dataset or a different dataset (e.g., VRESEE)
    * The five variables: "csv_file", "existing_path_prefix", "new_path_prefix_0", "new_path_prefix_1", "new_path_prefix_2", and "new_path_prefix_3"
