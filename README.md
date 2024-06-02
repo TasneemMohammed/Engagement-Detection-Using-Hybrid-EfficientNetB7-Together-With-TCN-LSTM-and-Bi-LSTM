@@ -80,16 +80,16 @@ There are several steps:
 
 #### 4- Train, test, and tune the models
 
-   * Change the paths for all the following files to your ones
-   * Load the spatial extracted features and train them to get the temporal information using
+   * Update the paths for all the following files to match your directory structure
+   * Load the spatially extracted features and utilize them to train the models for capturing temporal information
    
    a- For the DAiSEE dataset
    
-   DAISEEEfficientNetB7TCN.ipynb, DAISEEEfficientNetB7lstm.ipynb, and DAISEEEfficientNetB7BiLSTM.ipynb files for training, tuning and testing the TCN, LSTM, and Bi-LSTM models respectively.
+   "DAISEEEfficientNetB7TCN.ipynb", "DAISEEEfficientNetB7lstm.ipynb", and "DAISEEEfficientNetB7BiLSTM.ipynb" files are designated for training, tuning, and testing TCN, LSTM, and Bi-LSTM models, respectively.
   
    b- For the VRESEE dataset
 
-   EgyptianEfficientNetB7TCN.ipynb, EgyptianEfficientNetB7lstm.ipynb, and EgyptianEfficientNetB7BiLSTM.ipynb files for training, tuning and testing the TCN, LSTM, and Bi-LSTM respectively.
+   "EgyptianEfficientNetB7TCN.ipynb", "EgyptianEfficientNetB7lstm.ipynb", and "EgyptianEfficientNetB7BiLSTM.ipynb" files are utilized for training, tuning, and testing TCN, LSTM, and Bi-LSTM models, respectively.
 
 
 ## Cite
